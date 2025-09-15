@@ -1,5 +1,6 @@
 # CausalInference
 # Insightify – Causal Inference for Marketing Campaign Effectiveness
+https://causalinferencemodel.streamlit.app/
 
 ## 📌 Description
 Insightify is an analytics application that leverages **causal inference** to evaluate the effectiveness of marketing campaigns.  
