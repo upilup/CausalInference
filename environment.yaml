@@ -1,0 +1,19 @@
+name: causal-inference-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.26
+  - pandas>=2.2
+  - scikit-learn>=1.5
+  - joblib>=1.4
+  - matplotlib>=3.9
+  - seaborn>=0.13
+  - streamlit>=1.37
+  - pip
+  - pip:
+      - dowhy>=0.11
+      - econml>=0.15
+      - pymc>=5.15
+      - arviz>=0.19
